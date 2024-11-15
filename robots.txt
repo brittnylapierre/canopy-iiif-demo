@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://brittnylapierre.github.io/canopy-iiif-demo
+
+# Sitemaps
+Sitemap: https://brittnylapierre.github.io/canopy-iiif-demo/sitemap.xml
